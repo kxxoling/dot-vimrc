@@ -27,6 +27,7 @@ Bundle 'tomtom/tlib_vim'
 "-----------------
 Bundle 'edsono/vim-matchit'
 Bundle 'Lokaltog/vim-easymotion'
+Plugin 'vim-scripts/mru.vim'
 
 "--------------
 " Fast editing
@@ -63,7 +64,7 @@ Bundle 'nvie/vim-togglemouse'
 Bundle '2072/PHP-Indenting-for-VIm'
 "Bundle 'tpope/vim-rails'
 Bundle 'lepture/vim-jinja'
-"Bundle 'digitaltoad/vim-jade'
+Plugin 'digitaltoad/vim-jade'
 
 "------- web frontend ----------
 Bundle 'othree/html5.vim'
