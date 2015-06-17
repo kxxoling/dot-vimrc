@@ -91,6 +91,9 @@ Bundle 'kien/rainbow_parentheses.vim'
 " Bundle 'wlangstroth/vim-racket'
 " Bundle 'vim-scripts/VimClojure'
 " Bundle 'rosstimson/scala-vim-support'
+"
+"------- Dockerfile ------
+Plugin 'docker/docker' , {'rtp': '/contrib/syntax/vim/'}
 
 "--------------
 " Color Schemes
