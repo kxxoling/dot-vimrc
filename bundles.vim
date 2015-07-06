@@ -60,6 +60,7 @@ Bundle 'nvie/vim-togglemouse'
 "----------------------------------------
 " Syntax/Indent for language enhancement
 "----------------------------------------
+"
 "------- web backend ---------
 Bundle '2072/PHP-Indenting-for-VIm'
 "Bundle 'tpope/vim-rails'
@@ -94,6 +95,9 @@ Bundle 'kien/rainbow_parentheses.vim'
 "
 "------- Dockerfile ------
 Plugin 'docker/docker' , {'rtp': '/contrib/syntax/vim/'}
+
+"------- Rust -----
+Bundle "rust-lang/rust.vim"
 
 "--------------
 " Color Schemes
